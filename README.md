@@ -73,11 +73,15 @@ Anomaly Detection → Predictive Modeling → Intuitive Visualization
 
 **Bloom Earth Data fetch and display**
 
+BloomWatch retrieves NASA MODIS satellite imagery through Earth observation APIs, processes vegetation indices (NDVI/EVI) to measure plant health and bloom intensity, then transforms this complex geospatial data into intuitive visual dashboards. The system tracks bloom cycles across seasons, detects anomalies, and presents actionable insights through interactive maps and alerts—making satellite data accessible for farmers, researchers, and communities to optimize planting schedules, monitor crop health, and predict peak bloom periods.
+
 <p align="center">
   <img src="./resources/Screenshot 2025-10-05 162916.png" alt="BloomWatch Dashboard" width="800"/>
 </p>
 
 ### Prediction Function (NVDI predictor)
+
+The NDVI Predictor uses machine learning to forecast future vegetation health and bloom cycles by analyzing historical NDVI (Normalized Difference Vegetation Index) patterns. It processes multi-year satellite data to identify seasonal trends, predicts optimal planting windows, estimates bloom intensity and timing, and generates early warnings for vegetation stress—enabling farmers to make proactive decisions days or weeks before critical agricultural events occur.
 
 <p align="center">
   <img src="./resources/Screenshot 2025-10-05 214445.png" alt="BloomWatch Dashboard" width="800"/>
