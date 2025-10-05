@@ -69,6 +69,20 @@ Anomaly Detection → Predictive Modeling → Intuitive Visualization
   <img src="./resources/Screenshot 2025-10-05 162916.png" alt="BloomWatch Dashboard" width="800"/>
 </p>
 
+### Phenology Data Analysis 
+
+**Bloom Earth Data fetch and display**
+
+<p align="center">
+  <img src="./resources/Screenshot 2025-10-05 162916.png" alt="BloomWatch Dashboard" width="800"/>
+</p>
+
+### Prediction Function (NVDI predictor)
+
+<p align="center">
+  <img src="./resources/Screenshot 2025-10-05 214445.png" alt="BloomWatch Dashboard" width="800"/>
+</p>
+
 ---
 
 ## ✨ Core Features
