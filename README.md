@@ -13,7 +13,7 @@
 ---
 
 <p align="center">
-  <img src="[https://img.shields.io/badge/Deployment-Kenya-FF6D00?style=for-the-badge](https://drive.google.com/file/d/19t0SoYCMsTkPtYZHscQB_gv7MV_t0UUe/view?usp=sharing)" alt="Deployment"/>
+  <img src="https://drive.google.com/file/d/19t0SoYCMsTkPtYZHscQB_gv7MV_t0UUe/view?usp=sharing" alt="Deployment"/>
 </p>
 ---
 ## 🎯 BloomWatch: An Earth Observation Application for Global Flowering Phenology
